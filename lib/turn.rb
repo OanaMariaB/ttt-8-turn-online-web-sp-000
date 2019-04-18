@@ -1,7 +1,7 @@
 def turn(board, index)
-  
+
     def display_board
-      
+
     end
 
     def valid_move?(board, index)
@@ -30,7 +30,7 @@ def turn(board, index)
   end
 
     def move(board, index, token = X)
-      
+
     end
-    
+
 end
